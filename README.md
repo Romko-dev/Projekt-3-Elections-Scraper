@@ -26,6 +26,7 @@ python main.py <odkaz-uzemneho-celku> <vysledny-subor>
 
 Výsledky hlasovania pre okres Prostějov:
 	1.	argument: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
+ 
 	2.	argument: vysledky_prostejov.csv
 
 ## Spustenie programu:
