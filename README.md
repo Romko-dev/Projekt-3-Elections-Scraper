@@ -46,4 +46,4 @@ code,location,registered,envelopes,valid,...
 	•	main.py – hlavný skript
 	•	requirements.txt – zoznam knižníc
 	•	README.md – dokumentácia
-	•	vysledky_prostejov.csv – ukážkový výstup (voliteľné)
+	•	vysledky_prostejov.csv
