@@ -41,3 +41,9 @@ code,location,registered,envelopes,valid,...
 506761,Alojzov,205,145,144,29,0,0,5,17,4,1,0,0,5,32,0,0,6,0,0,1,1,15,0
 589268,Bedihošť,834,527,524,51,0,0,28,1,3,123,2,2,14,1,0,0,6,140,0,0,26,0,0,0,0,82,1
 ...
+
+##  Štruktúra repozitára
+	•	main.py – hlavný skript
+	•	requirements.txt – zoznam knižníc
+	•	README.md – dokumentácia
+	•	vysledky_prostejov.csv – ukážkový výstup (voliteľné)
