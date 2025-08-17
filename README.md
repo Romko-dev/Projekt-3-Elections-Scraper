@@ -13,6 +13,7 @@ Výstupom je CSV súbor s počtami registrovaných voličov, vydaných obálok, 
 Knižnice, ktoré sú použité v kóde, sú uložené v súbore `requirements.txt`. Na inštaláciu odporúčam použiť nové virtuálne prostredie a s nainštalovaným manažérom spustiť nasledovne:
 
 $ pip3 –version                    # overím verziu manažéra
+
 $ pip3 install -r requirements.txt  # nainštalujeme knižnice
 
 ## Spustenie projektu
