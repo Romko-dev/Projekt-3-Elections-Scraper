@@ -39,10 +39,10 @@ UKLADAM DO SOUBORU: vysledky_prostejov.csv
 UKONCUJEM election-scraper
 
 ##  Čiastočný výstup:
-code,location,registered,envelopes,valid,...
-506761,Alojzov,205,145,144,29,0,0,5,17,4,1,0,0,5,32,0,0,6,0,0,1,1,15,0
-589268,Bedihošť,834,527,524,51,0,0,28,1,3,123,2,2,14,1,0,0,6,140,0,0,26,0,0,0,0,82,1
-...
+code	location	registered	envelopes	valid	Občanská demokratická strana	Řád národa - Vlastenecká unie	CESTA ODPOVĚDNÁ SPOLEČNOST
+589761	Alojzov	205	145	144	29	0	0
+589268	Bedihost	834	527	524	51	0	0
+589276	Bilovice-Lutotín	431	279	275	13	0	0
 
 ##  Štruktúra repozitára
 	•	main.py – hlavný skript
